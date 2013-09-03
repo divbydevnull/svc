@@ -1,0 +1,12 @@
+div {
+	display:inline-block;
+	width:150px;
+	height:400px
+	background-color:red;
+	border-style:outset;
+}
+
+input {
+	width: 140px;
+}
+
